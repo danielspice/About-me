@@ -1,0 +1,23 @@
+body {
+  background-color: red;
+}
+.container {
+  text-align: center;
+  background-color: white;
+  width: 400px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px auto;
+  margin-top: 100px;
+}
+.school{
+    color: grey;
+    font-weight: bold;
+}
+.address{
+    color: green;
+    font-weight: bold;
+}
+.name{
+    font-weight: bold;
+}
